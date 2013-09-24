@@ -15,3 +15,4 @@
 
 # Configuration for the +JAVA_OPTS+ framework
 ---
+-Xmx512m -Xms512m -Dhttp.port=61857 -XX:MaxPermSize=256m
